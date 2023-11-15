@@ -1,4 +1,4 @@
-# Thinking in React
+# Next.js Tutorial
 
 This is how I did the [Next.js Tutorial](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs).
 
